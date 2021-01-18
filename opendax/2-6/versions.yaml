@@ -9,7 +9,7 @@ frontend:
     tag: 2.6.5
 peatio:
   image:
-    tag: 1.0.5
+    tag: 1.0.6
 tower:
   image:
     tag: 2.6.31
